@@ -1,0 +1,1 @@
+create a two copys for the game one for testing the other for pushing and pulling 

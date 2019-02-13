@@ -1,0 +1,15 @@
+{
+    "id": "8266e7a0-a51b-4f76-928d-85d2a7df2b63",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "8266e7a0-a51b-4f76-928d-85d2a7df2b63",
+    "children": [
+        "5b82d1e6-c1bc-4383-99c0-a4bf82c89d3b",
+        "d5ac6f4f-2a25-4482-93c3-3d22aee283f5",
+        "bcc8ff44-4b91-4c0f-8ba6-e7b9d923abda"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "rooms",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Rooms"
+}

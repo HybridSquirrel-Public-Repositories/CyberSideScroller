@@ -1,0 +1,34 @@
+GitHub:
+Allways pull before pushing and commiting.
+This is a file you can check what names and objects are added and to avoid merges by renaming your stuff.
+
+Push - 13-02-2019 18:10 Home Robert
+Sprites
+spr_worldregen
+spr_bedrock
+spr_player
+spr_ground
+spr_gun
+spr_bullet
+spr_granade
+spr_explotion
+
+Objects
+obj_worldregen
+obj_bedrock
+obj_player
+obj_ground
+obj_gun
+obj_bullet
+obj_granade
+obj_explotion
+
+Rooms
+test
+room1
+room2
+
+Notes
+Github check
+
+Push 
