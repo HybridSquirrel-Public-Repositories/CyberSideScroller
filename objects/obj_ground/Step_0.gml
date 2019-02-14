@@ -1,4 +1,4 @@
-if (place_meeting(x, y - 32, obj_ground))
+if (place_meeting(x, y - 16, obj_ground))
 {
 	image_index = 1;
 	
@@ -10,7 +10,7 @@ else
 	
 }
 
-if (place_meeting(x, y - 32, obj_worldregen))
+if (place_meeting(x, y - 16, obj_worldregen))
 {
 	image_index = 1;
 	
