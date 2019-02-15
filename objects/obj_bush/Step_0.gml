@@ -9,12 +9,6 @@ if (!state == 1)
 	}
 }
 
-
-
-
-
-
-
 if (place_meeting(x,y,obj_flame))
 {
 	alarm[0]= room_speed*3;
