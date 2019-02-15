@@ -5,16 +5,6 @@
     "name": "obj_bush",
     "eventList": [
         {
-            "id": "8deee9b7-2b08-449b-8023-188dd3a0523a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "637d1933-b1b4-4ce6-b9c2-4c0104b5293f",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "070a6a85-b6bd-4c3c-b0ac-10b293acfd7c"
-        },
-        {
             "id": "cfcbb485-c83c-4391-ad20-2f18ecb90809",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "070a6a85-b6bd-4c3c-b0ac-10b293acfd7c"
+        },
+        {
+            "id": "6fcfdd27-edd6-4086-a2b2-ea7b5368d697",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "070a6a85-b6bd-4c3c-b0ac-10b293acfd7c"
         }
     ],

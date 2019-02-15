@@ -35,6 +35,24 @@ if (mouse_check_button(mb_left)) &&	(firingdelay < 0)
 	
 	
 	}
+	if (state == 2)
+	{
+	
+		recoil = 0;
+		firingdelay = 1;
+
+		with (instance_create_layer(x,y,"fire",obj_flame))
+		{
+			speed = 5;
+			direction = other.image_angle + random_range(-3,3);
+			image_angle = direction;
+		}
+	
+	
+	}
+	
+	
+	
 }
 
 x = x - lengthdir_x(recoil,image_angle);
