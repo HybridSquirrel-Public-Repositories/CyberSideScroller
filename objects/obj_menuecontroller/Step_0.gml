@@ -30,7 +30,7 @@ if (inventorystate == true)
 {
 	if(keyboard_check_pressed(ord("B")))
 	{
-		room_goto(test);
+		room_goto(rm_gameroom);
 		inventorystate = false;
 		
 	}
