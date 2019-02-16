@@ -14,6 +14,6 @@ if (place_meeting(x,y,obj_flame))
 	alarm[0]= room_speed*3;
 	
 	
-	instance_create_layer(x,y + 2,"debries",obj_nonflame);
+	instance_create_layer(x,y + 2,"fire",obj_nonflame);
 	
 }

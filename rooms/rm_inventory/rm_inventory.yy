@@ -1,8 +1,8 @@
 
 {
-    "name": "room1",
+    "name": "rm_inventory",
     "id": "d5ac6f4f-2a25-4482-93c3-3d22aee283f5",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "d3d1047e-e10f-4fcf-a64f-0f92f3890a59",
-        "Height": 768,
+        "Height": 1080,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 1920
     },
     "mvc": "1.0",
     "views": [

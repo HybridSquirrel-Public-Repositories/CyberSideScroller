@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "32102f5b-b823-4922-8979-13afb0acf33e",
+            "Value": {
+                "id": "7185880c-02f4-43e4-ab38-ac8e1489704b",
+                "resourcePath": "objects\\obj_menuecontroller\\obj_menuecontroller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "e2d3cdee-60f8-4ace-b8c1-333c407c696d",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "781b2fb8-23ea-4e1b-b310-8c21a25ca971",
+            "Value": {
+                "id": "9105aa07-01a9-4664-a7d8-79159d0ab3d3",
+                "resourcePath": "scripts\\scr_inventory\\scr_inventory.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "df18a69a-24fd-4d2c-acf8-70f043dfa00e",
@@ -410,7 +426,7 @@
             "Key": "d5ac6f4f-2a25-4482-93c3-3d22aee283f5",
             "Value": {
                 "id": "49770c05-8108-4bbf-843d-c90df3ee0ac8",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\rm_inventory\\rm_inventory.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -480,7 +496,7 @@
         }
     ],
     "script_order": [
-        
+        "781b2fb8-23ea-4e1b-b310-8c21a25ca971"
     ],
     "tutorial": ""
 }
