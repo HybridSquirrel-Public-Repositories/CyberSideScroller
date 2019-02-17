@@ -1,3 +1,5 @@
+cursor_sprite = spr_courser;
+
 //player input
 key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
@@ -46,3 +48,6 @@ if (place_meeting(x,y+vsp,obj_ground))
 	vsp = 0;
 }
 y = y + vsp;
+
+
+

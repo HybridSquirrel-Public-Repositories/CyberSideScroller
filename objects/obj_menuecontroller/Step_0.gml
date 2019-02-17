@@ -1,3 +1,14 @@
+/*if (startcount == 0)
+{
+	startcount = startcount + 1;
+	room_goto(rm_gameroom);
+
+}
+*/
+
+
+
+
 if (keyboard_check_pressed(vk_escape))
 {
 	if(!pause)
@@ -20,6 +31,7 @@ if (inventorystate == false)
 {
 	if (keyboard_check(ord("I")))
 	{
+		cursor_sprite = spr_curser;
 		inventorystate = true;
 		room_goto(rm_inventory);
 	}
@@ -36,3 +48,4 @@ if (inventorystate == true)
 	}
 
 }
+

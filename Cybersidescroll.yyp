@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "08c9a095-cdd8-432c-8028-bccdec2c8a35",
+            "Value": {
+                "id": "909f36a5-8b65-4506-914d-c44b45df65b0",
+                "resourcePath": "sprites\\spr_guntree\\spr_guntree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b761040-f45f-4629-80c5-0d6cfdc31565",
             "Value": {
                 "id": "4d83f46d-44fb-440b-8308-956185b9d010",
@@ -84,6 +92,14 @@
                 "id": "93fd022b-e27c-4935-b03d-61990e4abea6",
                 "resourcePath": "views\\0d813faf-8014-4238-9c88-c1275c5c0033.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f6f1dc8-5c60-43f9-9a4b-52d1a995e396",
+            "Value": {
+                "id": "ae3a20f1-2ae1-4d56-9160-7ba4864ff170",
+                "resourcePath": "objects\\obj_iconlockedgun\\obj_iconlockedgun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -116,6 +132,22 @@
                 "id": "f6ab6074-1dcc-440f-ba94-460c39759324",
                 "resourcePath": "views\\19fe5e59-ca08-4f4d-9826-669bee6e78ef.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c31c891-0554-41c8-a273-775e547e892c",
+            "Value": {
+                "id": "e01569ea-306b-4f1d-b976-2a4b7a44ada7",
+                "resourcePath": "objects\\obj_select\\obj_select.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c61d622-1159-477c-ba30-54ecf6406e1c",
+            "Value": {
+                "id": "3dc64282-ffa4-4299-9f37-87c2c24afea6",
+                "resourcePath": "objects\\obj_itemgranade\\obj_itemgranade.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +196,14 @@
                 "id": "de32dad9-f1db-4e0c-88de-e3d2b4b69095",
                 "resourcePath": "views\\3398a51a-e203-4237-915f-8e23083fc969.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39fea58d-af0d-43be-bf45-d01729987a17",
+            "Value": {
+                "id": "560b63ba-270a-40d8-a8fc-0b093b49da30",
+                "resourcePath": "objects\\obj_upgradebutton\\obj_upgradebutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,6 +359,14 @@
             }
         },
         {
+            "Key": "6d51b896-115d-451a-a093-7cdb2947e30a",
+            "Value": {
+                "id": "0053009f-baf6-425c-a6dd-78bbb5874a5c",
+                "resourcePath": "objects\\obj_itemflame\\obj_itemflame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6da89b8f-134f-42cb-9a17-2e13a831506d",
             "Value": {
                 "id": "76413f38-b268-4776-bf33-4f13e4ee0996",
@@ -332,6 +380,14 @@
                 "id": "567d6af6-9c63-4823-816b-cd279e6c90e7",
                 "resourcePath": "views\\6fc38f74-5ae2-44be-bc6e-99f752c1fcdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "720e6a44-c464-4b71-94f2-f57df264660a",
+            "Value": {
+                "id": "99b42076-0ac1-4c28-b8cc-989811548ca0",
+                "resourcePath": "sprites\\spr_select\\spr_select.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +447,14 @@
             }
         },
         {
+            "Key": "82619f1c-88dc-47c2-9213-cde6ba1e701c",
+            "Value": {
+                "id": "df160d45-44fb-44a2-a035-a6eae21e17d6",
+                "resourcePath": "fonts\\fnt_gunmessage\\fnt_gunmessage.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "8266e7a0-a51b-4f76-928d-85d2a7df2b63",
             "Value": {
                 "id": "cb98a245-c42b-4b83-82da-8d706bd3beb5",
@@ -412,6 +476,14 @@
                 "id": "d5a3f413-a244-4f84-a382-1590d0e3e079",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8b23bf37-35b8-457d-9482-10892145e5f2",
+            "Value": {
+                "id": "24693a6b-0539-4315-9fee-9ef7bf585989",
+                "resourcePath": "objects\\obj_guntree\\obj_guntree.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -463,6 +535,14 @@
             }
         },
         {
+            "Key": "a791fda1-9298-4f6f-b5a3-7cd57bafc406",
+            "Value": {
+                "id": "f2ee3be4-4e73-4594-8e28-2e1a5971d143",
+                "resourcePath": "sprites\\spr_invetorygui\\spr_invetorygui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a90ee2e6-7635-4699-9f50-63cf3bd73845",
             "Value": {
                 "id": "1a571289-fae4-4fc4-ba91-ed90bd9f21ec",
@@ -476,6 +556,22 @@
                 "id": "193a0725-64e0-49f9-9446-98acd5fbf377",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "afa808ab-8573-487f-8b13-4f9f0b8035f0",
+            "Value": {
+                "id": "c6cc8e4a-1d92-40b5-bc75-e7608021c81c",
+                "resourcePath": "objects\\obj_itemgun\\obj_itemgun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba02dae6-f512-4588-ab90-5479a65feee9",
+            "Value": {
+                "id": "1fc1fc79-5470-427f-a387-54e6118204fa",
+                "resourcePath": "sprites\\spr_skilltree\\spr_skilltree.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -535,6 +631,30 @@
             }
         },
         {
+            "Key": "d1524e13-7e9a-4287-b5bd-4057e3c48c0a",
+            "Value": {
+                "id": "eb1f61ad-1efe-45a5-8786-1d498cba7eef",
+                "resourcePath": "objects\\obj_skilltree\\obj_skilltree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d374e982-0771-4da6-99c9-7f9c475df247",
+            "Value": {
+                "id": "46b37232-f9bf-4a5a-a126-9355e4c75169",
+                "resourcePath": "sprites\\spr_unlockbutton\\spr_unlockbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d5a24d00-06bb-4816-8b20-3932c75fedb4",
+            "Value": {
+                "id": "554d44ca-cf50-476d-ab08-f012d62ebb97",
+                "resourcePath": "sprites\\spr_lock\\spr_lock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5ac6f4f-2a25-4482-93c3-3d22aee283f5",
             "Value": {
                 "id": "49770c05-8108-4bbf-843d-c90df3ee0ac8",
@@ -543,11 +663,27 @@
             }
         },
         {
+            "Key": "d8a304a0-09c1-4ea1-94c4-48719cd0cfbe",
+            "Value": {
+                "id": "ca6cba61-d9c3-4499-85ff-ff797739edfc",
+                "resourcePath": "sprites\\spr_upgradebuttom\\spr_upgradebuttom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "db242b74-b561-42d9-b144-c8603a8ce654",
             "Value": {
                 "id": "8841e970-2d36-4b00-b7cb-bda56f46c208",
                 "resourcePath": "sprites\\spt_bush\\spt_bush.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df2c63ee-694c-4943-9143-8743c5c294e8",
+            "Value": {
+                "id": "b1998330-d2e2-4d92-90d8-89c3378cf2e6",
+                "resourcePath": "objects\\obj_unlockbutton\\obj_unlockbutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

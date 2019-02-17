@@ -13,7 +13,7 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "startbutton",
             "id": "9f5f6659-655c-4b80-8066-adf3ec1088c7",
             "depth": 0,
             "grid_x": 32,
