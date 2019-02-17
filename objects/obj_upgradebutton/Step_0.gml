@@ -7,10 +7,10 @@ if (position_meeting(mouse_x, mouse_y, obj_upgradebutton))
 
 	if (mouse_check_button_pressed(mb_left))
 	{
-		if (instance_exists(obj_select))
+		if (instance_exists(obj_selectgun))
 		{
 		
-			instance_destroy(obj_select.selectediconlock);
+			instance_destroy(obj_selectgun.selectediconlockgun);
 		}
 	}
 	

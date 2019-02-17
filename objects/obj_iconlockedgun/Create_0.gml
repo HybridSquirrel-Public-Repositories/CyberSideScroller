@@ -1,4 +1,4 @@
-iconid = id;
-global.select = false;
+iconidgun = id;
+global.selectgun = false;
 
-unlocked = false;
+unlockedgun = false;

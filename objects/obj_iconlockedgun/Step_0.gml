@@ -1,4 +1,4 @@
-if (unlocked == true)
+if (unlockedgun == true)
 {
 	instance_destroy();
 }
@@ -17,15 +17,15 @@ if (place_meeting(x,y,obj_itemgranade))
 
 }
 
-if (position_meeting(mouse_x,mouse_y, iconid))
+if (position_meeting(mouse_x,mouse_y, iconidgun))
 	{
 				
 		if(mouse_check_button_pressed(mb_left))
 		{
-			if (!global.select == true)
+			if (!global.selectgun == true)
 			{
-				instance_create_layer(iconid.x, iconid.y, "select", obj_select);
-				global.select = true;
+				instance_create_layer(iconidgun.x, iconidgun.y, "select", obj_selectgun);
+				global.selectgun = true;
 			}
 			
 		}
@@ -36,8 +36,8 @@ if (!position_meeting(mouse_x,mouse_y,obj_iconlockedgun))
 	{
 		if(mouse_check_button_pressed(mb_left))
 		{
-			instance_destroy(obj_select);
-			global.select = false;
+			instance_destroy(obj_selectgun);
+			global.selectgun = false;
 		}
 	
 	}

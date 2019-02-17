@@ -138,7 +138,7 @@
             "Key": "1c31c891-0554-41c8-a273-775e547e892c",
             "Value": {
                 "id": "e01569ea-306b-4f1d-b976-2a4b7a44ada7",
-                "resourcePath": "objects\\obj_select\\obj_select.yy",
+                "resourcePath": "objects\\obj_selectgun\\obj_selectgun.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "b7aab45c-0258-4b1c-a00d-39c83f1391dd",
+            "Value": {
+                "id": "5e75855b-66cf-4272-bfa3-35c8b396de02",
+                "resourcePath": "objects\\obj_iconlockedskill\\obj_iconlockedskill.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ba02dae6-f512-4588-ab90-5479a65feee9",
             "Value": {
                 "id": "1fc1fc79-5470-427f-a387-54e6118204fa",
@@ -620,6 +628,14 @@
                 "id": "c76adb0d-cf61-4ef2-bce4-df53ecd39cab",
                 "resourcePath": "views\\ce365eed-1994-486a-bae1-fa6497b12497.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce3a7563-38fc-4015-85ac-78f9378b8fac",
+            "Value": {
+                "id": "57bedf9f-c658-4b6f-9ed7-52384ea1b237",
+                "resourcePath": "objects\\obj_selectskill\\obj_selectskill.yy",
+                "resourceType": "GMObject"
             }
         },
         {
