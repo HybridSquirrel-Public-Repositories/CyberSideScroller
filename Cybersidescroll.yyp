@@ -447,14 +447,6 @@
             }
         },
         {
-            "Key": "82619f1c-88dc-47c2-9213-cde6ba1e701c",
-            "Value": {
-                "id": "df160d45-44fb-44a2-a035-a6eae21e17d6",
-                "resourcePath": "fonts\\fnt_gunmessage\\fnt_gunmessage.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "8266e7a0-a51b-4f76-928d-85d2a7df2b63",
             "Value": {
                 "id": "cb98a245-c42b-4b83-82da-8d706bd3beb5",
