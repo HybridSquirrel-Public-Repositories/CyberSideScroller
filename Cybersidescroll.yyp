@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0f5dcbbe-03ad-422d-b941-d6953ec30c0e",
+            "Value": {
+                "id": "115d94fd-648a-4a13-84ab-5e71594557f9",
+                "resourcePath": "views\\0f5dcbbe-03ad-422d-b941-d6953ec30c0e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0f6f1dc8-5c60-43f9-9a4b-52d1a995e396",
             "Value": {
                 "id": "ae3a20f1-2ae1-4d56-9160-7ba4864ff170",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "41f0ae66-681c-4bcf-a22b-03c796571bf7",
+            "Value": {
+                "id": "21981711-0142-468e-b39a-fee9058e35ef",
+                "resourcePath": "objects\\obj_pickupcontroller\\obj_pickupcontroller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "44ae170c-92aa-4cd7-a4da-0a5b258bd212",
             "Value": {
                 "id": "1c7071a2-c68a-4071-ba90-3b8485af60d4",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "5b706997-3e53-4589-ac31-6ff85e8067d9",
+            "Value": {
+                "id": "3adcb5bb-4302-4d98-a7e7-3f7a26418175",
+                "resourcePath": "sprites\\spr_gears\\spr_gears.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b82d1e6-c1bc-4383-99c0-a4bf82c89d3b",
             "Value": {
                 "id": "7500f04f-5471-43ba-b19a-d3a859ff7d17",
@@ -299,6 +323,14 @@
             "Value": {
                 "id": "98059463-726a-4f2b-abbd-06543a40fc2b",
                 "resourcePath": "objects\\obj_nonflame\\obj_nonflame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5da74e6d-40a2-4894-80e8-95f032d0c7ac",
+            "Value": {
+                "id": "6a5721f2-04d4-4fa5-9c28-9a59fc4277ce",
+                "resourcePath": "objects\\obj_metal\\obj_metal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -527,6 +559,14 @@
             }
         },
         {
+            "Key": "a47239f4-6aa2-4a47-bd31-c75ab414ef4c",
+            "Value": {
+                "id": "a7335f22-a9a5-4829-abfb-6ddbdeb83088",
+                "resourcePath": "views\\a47239f4-6aa2-4a47-bd31-c75ab414ef4c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a791fda1-9298-4f6f-b5a3-7cd57bafc406",
             "Value": {
                 "id": "f2ee3be4-4e73-4594-8e28-2e1a5971d143",
@@ -596,6 +636,14 @@
                 "id": "a8010787-476e-4e5a-bece-d7dfc8de7437",
                 "resourcePath": "views\\c02b1da3-f5f0-4b01-b015-97309324ba7b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4f9a150-342a-48f9-a4f3-fe7f3665b085",
+            "Value": {
+                "id": "85fd9e00-ac67-47d9-9387-643f2926804c",
+                "resourcePath": "sprites\\spr_metal\\spr_metal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +743,14 @@
             }
         },
         {
+            "Key": "e142b5db-d65e-4ce0-a48a-463824f8c9c2",
+            "Value": {
+                "id": "b645788a-3b4e-46f2-8a1c-7d45617a7eca",
+                "resourcePath": "objects\\obj_oil\\obj_oil.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4079490-20b9-419f-b93e-04ded71e6ec1",
             "Value": {
                 "id": "2ee4ee40-55da-4377-a3f4-f3b6e8c86c91",
@@ -732,6 +788,30 @@
                 "id": "7d525d2d-4b76-4ac1-82a4-4420dca9b269",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fb5f0e54-7bef-42b9-a3dd-a3ecd9f9c98f",
+            "Value": {
+                "id": "9dda7ee4-5e2c-43dc-ad36-12b98e3eebb6",
+                "resourcePath": "sprites\\spr_oils\\spr_oils.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb658b66-1972-422e-8cbf-267d92480651",
+            "Value": {
+                "id": "753acba3-3fdd-48a4-9da0-a4b0eaf66150",
+                "resourcePath": "objects\\obj_gears\\obj_gears.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd04072b-ab20-4492-9e11-1e899bc62881",
+            "Value": {
+                "id": "c7cfe4c9-2883-413b-8c2e-ad9a0b5a5d06",
+                "resourcePath": "fonts\\fnt_pickup\\fnt_pickup.yy",
+                "resourceType": "GMFont"
             }
         },
         {
