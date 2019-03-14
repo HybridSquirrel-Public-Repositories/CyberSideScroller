@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "14c93929-165e-4de8-bdf3-33c144009cff",
+            "Value": {
+                "id": "04f27daa-847a-4612-b329-c2fe4b05c4b3",
+                "resourcePath": "objects\\obj_gencontroller\\obj_gencontroller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18eee431-9e48-402d-806b-5da9c8ecfca7",
             "Value": {
                 "id": "f1d9b27b-60f5-4f2e-8437-7ff9cc487ad8",
