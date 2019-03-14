@@ -6,3 +6,6 @@ mp_grid_add_instances(global.grid, obj_oil, true);
 mp_grid_add_instances(global.grid, obj_gears, true);
 mp_grid_add_instances(global.grid, obj_metal, true);
 mp_grid_add_instances(global.grid, obj_bush, true);
+
+
+//learn github!
