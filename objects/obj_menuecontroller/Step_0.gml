@@ -14,37 +14,14 @@ if (keyboard_check_pressed(vk_escape))
 	if(!pause)
 	{
 		pause = true;
-		instance_deactivate_all(true);
+		room_goto(rm_pause);
 	
 	}
 	else
 	{
 		pause = false;
-		instance_activate_all();
-	
-	}
-
-}
-
-
-if (inventorystate == false)
-{
-	if (keyboard_check(ord("I")))
-	{
-		cursor_sprite = spr_curser;
-		inventorystate = true;
-		room_goto(rm_inventory);
-	}
-
-}
-
-if (inventorystate == true)
-{
-	if(keyboard_check_pressed(ord("B")))
-	{
 		room_goto(rm_gameroom);
-		inventorystate = false;
-		
+	
 	}
 
 }

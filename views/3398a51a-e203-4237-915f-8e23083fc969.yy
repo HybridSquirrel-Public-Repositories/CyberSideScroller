@@ -4,7 +4,6 @@
     "mvc": "1.1",
     "name": "3398a51a-e203-4237-915f-8e23083fc969",
     "children": [
-        "32102f5b-b823-4922-8979-13afb0acf33e",
         "c516fa3c-36d4-458e-8177-12d73a4fcd5b",
         "39fea58d-af0d-43be-bf45-d01729987a17",
         "df2c63ee-694c-4943-9143-8743c5c294e8",
@@ -16,8 +15,7 @@
         "b7aab45c-0258-4b1c-a00d-39c83f1391dd",
         "1c31c891-0554-41c8-a273-775e547e892c",
         "ce3a7563-38fc-4015-85ac-78f9378b8fac",
-        "afa808ab-8573-487f-8b13-4f9f0b8035f0",
-        "41f0ae66-681c-4bcf-a22b-03c796571bf7"
+        "afa808ab-8573-487f-8b13-4f9f0b8035f0"
     ],
     "filterType": "GMObject",
     "folderName": "obj_gui",

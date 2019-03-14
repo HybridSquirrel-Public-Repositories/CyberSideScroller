@@ -634,7 +634,7 @@
             "Key": "bcc8ff44-4b91-4c0f-8ba6-e7b9d923abda",
             "Value": {
                 "id": "635d1275-cc8a-4a7e-80b6-e7439c280977",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\rm_pause\\rm_pause.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -708,6 +708,14 @@
                 "id": "eb1f61ad-1efe-45a5-8786-1d498cba7eef",
                 "resourcePath": "objects\\obj_skilltree\\obj_skilltree.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d22d1c75-3efc-46a4-8689-18abdd31b5b6",
+            "Value": {
+                "id": "f7423616-e540-4dc6-8b33-f59c8b4e54f3",
+                "resourcePath": "views\\d22d1c75-3efc-46a4-8689-18abdd31b5b6.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

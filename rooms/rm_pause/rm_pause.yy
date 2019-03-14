@@ -1,6 +1,6 @@
 
 {
-    "name": "room2",
+    "name": "rm_pause",
     "id": "bcc8ff44-4b91-4c0f-8ba6-e7b9d923abda",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "5ac61639-fe4e-4f6a-a847-fd3cfe172fb3",
-        "Height": 768,
+        "Height": 1080,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
-        "persistent": false,
+        "persistent": true,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 1920
     },
     "mvc": "1.0",
     "views": [
