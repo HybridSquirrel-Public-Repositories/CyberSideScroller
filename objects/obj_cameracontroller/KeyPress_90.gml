@@ -1,1 +1,1 @@
-//if (follow = obj_player) follow obj_other; else follow = obj_player;
+if (follow = obj_player) follow = obj_other; else follow = obj_player;
