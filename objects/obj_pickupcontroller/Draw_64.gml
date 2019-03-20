@@ -3,6 +3,8 @@ var draw_y = 9;
 
 var h_dist = 20;
 
+
+
 // Gui
 draw_set_font(fnt_pickup);
 

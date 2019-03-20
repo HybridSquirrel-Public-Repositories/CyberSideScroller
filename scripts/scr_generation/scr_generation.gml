@@ -11,10 +11,11 @@ var ground_level;
 var groundunder_level;
 var respawn_level;
 
+
 for(xx = 0; xx < room_width; xx += 16)
 {
 	ground_level = ah - 16 * choose(2,3,3,3,4,4);
-	groundunder_level = room_height;
+	groundunder_level = room_height/2;
 	
 	instance_create_layer(xx,ah,"Instances",obj_ground);
 	

@@ -10,7 +10,8 @@ if instance_find(wgr,0)
 	else
 	{
 		instance_activate_object(wgid);
-		instance_destroy();
+		instance_create_layer(wrx, wry, "Instances", obj_ground);
+		//instance_destroy();
 	}
 	
 }
