@@ -7,7 +7,8 @@
         "69f991fc-7255-4d17-afed-79c43684ddb5",
         "46b79e89-2732-4657-aa69-dc76af69befc",
         "20412833-07fa-4555-80df-c159fa5bf37b",
-        "070a6a85-b6bd-4c3c-b0ac-10b293acfd7c"
+        "070a6a85-b6bd-4c3c-b0ac-10b293acfd7c",
+        "e60d77f5-7309-4ce3-8b96-1cf41ea6e69c"
     ],
     "filterType": "GMObject",
     "folderName": "obj_terrain",

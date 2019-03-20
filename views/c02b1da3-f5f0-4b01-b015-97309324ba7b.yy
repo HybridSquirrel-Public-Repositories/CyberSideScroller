@@ -8,7 +8,8 @@
         "40bf644d-5517-43a4-bc32-13d11dd35987",
         "813bae74-840c-483e-bcd3-0768a471142a",
         "db242b74-b561-42d9-b144-c8603a8ce654",
-        "e4079490-20b9-419f-b93e-04ded71e6ec1"
+        "e4079490-20b9-419f-b93e-04ded71e6ec1",
+        "50209114-b7a5-4fc5-a25a-c7339076d2be"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_terrainstuff",
