@@ -5,3 +5,5 @@ walksp = 4.5;
 
 window_set_fullscreen(true);
 window_set_cursor(cr_none);
+
+object_set_persistent(obj_player, true);

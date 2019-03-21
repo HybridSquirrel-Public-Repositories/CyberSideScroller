@@ -2,7 +2,7 @@
 {
     "name": "rm_gameroom",
     "id": "5b82d1e6-c1bc-4383-99c0-a4bf82c89d3b",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

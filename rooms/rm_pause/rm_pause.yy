@@ -2,7 +2,7 @@
 {
     "name": "rm_pause",
     "id": "bcc8ff44-4b91-4c0f-8ba6-e7b9d923abda",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

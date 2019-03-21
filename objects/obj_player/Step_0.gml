@@ -48,6 +48,21 @@ if (place_meeting(x,y+vsp,obj_ground))
 	vsp = 0;
 }
 y = y + vsp;
+/*
+if (playerper == true)
+{
+	object_set_persistent(obj_player, true);
 
+}
+*/
+if (room == rm_inventory)
+{
 
+	object_set_persistent(obj_player, false);
+}
 
+if (room == rm_gameroom2)
+{
+	object_set_persistent(obj_player, true);
+
+}
