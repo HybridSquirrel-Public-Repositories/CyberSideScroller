@@ -1,3 +1,0 @@
-obj player presistance need check.
-
-remmeber to comment code.

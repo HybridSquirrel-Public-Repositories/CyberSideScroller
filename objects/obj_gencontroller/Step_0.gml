@@ -1,4 +1,4 @@
-
+//generates when game starts
 if (restartcount = 0)
 {
 	restartcount = 1;
@@ -6,8 +6,8 @@ if (restartcount = 0)
 	scr_genunder();
 	
 }
-
-if (restart = true)
+//if condistions are right for change
+if (restart == true)
 {
 	layer_destroy_instances("Instances");
 	scr_generation();
@@ -19,7 +19,7 @@ if (restart = true)
 }
 
 
-
+//creates portal
 
 if (restartcount == roomphase)
 {

@@ -1,8 +1,8 @@
-if (global.granadeupgrade == true)
+if (global.granadeupgrade == true)//check scr_inventory
 {
 	state = 1;
 }
-else
+else //if its not unlocked
 {
 	
 	state = 0;

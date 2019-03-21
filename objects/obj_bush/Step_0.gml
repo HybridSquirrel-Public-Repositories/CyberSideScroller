@@ -1,5 +1,7 @@
+//prevents a loop
 if (!state == 1)
 {
+	//destroys the bush
 	if (place_meeting(x,y,obj_bullet))
 	{
 		state = 1;
@@ -8,9 +10,10 @@ if (!state == 1)
 
 	}
 }
-
+//prevents a loop
 if (!state == 1)
 {
+	//destroys the bush
 	if (place_meeting(x,y,obj_flame))
 	{
 		state = 1;

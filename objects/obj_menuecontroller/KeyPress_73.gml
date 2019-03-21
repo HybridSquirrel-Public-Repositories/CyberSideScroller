@@ -1,3 +1,4 @@
+//go to and from inventory
 if(inventorystate == false)
 {
 	cursor_sprite = spr_curser;

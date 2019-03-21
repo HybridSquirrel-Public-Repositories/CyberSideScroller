@@ -1,9 +1,10 @@
+//destorys when you upgrade
 if (unlockedgun == true)
 {
 	instance_destroy();
 }
 
-
+//faded when icon under it
 if (place_meeting(x,y,obj_itemflame))
 {
 	image_alpha = 0.5;
@@ -16,7 +17,7 @@ if (place_meeting(x,y,obj_itemgranade))
 	
 
 }
-
+//if the object is selected and send info to another object
 if (position_meeting(mouse_x,mouse_y, iconidgun))
 	{
 				
@@ -31,7 +32,7 @@ if (position_meeting(mouse_x,mouse_y, iconidgun))
 		}
 	
 	}
-	
+	//deselect the selected object
 if (!position_meeting(mouse_x,mouse_y,obj_iconlockedgun))
 	{
 		if(mouse_check_button_pressed(mb_left))

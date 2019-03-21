@@ -1,3 +1,4 @@
+//and gravety on the granade
 if !place_meeting(x, y + 1, obj_ground)
    {
    gravity = 1;

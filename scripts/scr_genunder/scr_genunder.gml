@@ -11,7 +11,7 @@ var ground_level;
 var groundunder_level;
 var respawn_level;
 
-
+//This generates botton floor
 for(xx = 0; xx < 1924; xx += 16)
 {
 	ground_level = ah - 16 * choose(2,3,3,3,4,4);

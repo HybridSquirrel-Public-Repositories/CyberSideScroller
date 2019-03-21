@@ -11,7 +11,7 @@ var ground_level;
 var groundunder_level;
 var respawn_level;
 
-
+//This generates the top floor
 for(xx = 0; xx < 1924; xx += 16)
 {
 	ground_level = ah - 16 * choose(2,3,3,3,4,4);
@@ -35,6 +35,8 @@ for(xx = 0; xx < 1924; xx += 16)
 	
 }
 
+
+//This generates the cave roof
 for(xx = 0; xx < 1924; xx += 16)
 {
 	ground_level = ah + 16 * choose(2,3,3,3,4,4);

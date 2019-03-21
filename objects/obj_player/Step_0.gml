@@ -48,5 +48,39 @@ if (place_meeting(x,y+vsp,obj_ground))
 	vsp = 0;
 }
 y = y + vsp;
-/*
 
+//Animation
+if (!place_meeting(x,y,obj_ground))
+{
+	sprite_index = spr_playera;
+	image_speed = 0;
+	if (sign(vsp) > 0)
+	{
+		image_index = 1;
+	
+	}
+	else
+	{
+		image_index = 0;
+	
+	}
+}
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_player;
+	}
+	else
+	{
+		sprite_index = spr_playerr;
+	}
+
+}
+
+if (hsp != 0)
+{
+	image_xscale = sign(hsp);
+
+}

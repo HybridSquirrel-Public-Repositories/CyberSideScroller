@@ -1,3 +1,4 @@
+//Sets fullscreen,if hovered on top stop animation, changes cursor
 if (position_meeting(mouse_x, mouse_y, obj_startbutton))
 {
 	cursor_sprite = spr_curser;
@@ -6,6 +7,7 @@ if (position_meeting(mouse_x, mouse_y, obj_startbutton))
 	image_index = 9;
 	window_set_fullscreen(true);
 
+//enters game room and destroys it self
 	if (mouse_check_button_pressed(mb_left))
 	{
 		room_goto(rm_gameroom);
