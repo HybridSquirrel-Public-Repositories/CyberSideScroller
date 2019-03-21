@@ -1,5 +1,5 @@
 var sh;
-sh = choose(508,524,540,556,572);
+sh = choose(1079,1078,1077,1076,1075);
 //starting height 
 
 var ah;
@@ -15,7 +15,7 @@ var respawn_level;
 for(xx = 0; xx < 1924; xx += 16)
 {
 	ground_level = ah - 16 * choose(2,3,3,3,4,4);
-	groundunder_level = room_height/2;
+	groundunder_level = 1080;
 	
 	instance_create_layer(xx,ah,"Instances",obj_ground);
 	
@@ -34,3 +34,4 @@ for(xx = 0; xx < 1924; xx += 16)
 	}
 	
 }
+
