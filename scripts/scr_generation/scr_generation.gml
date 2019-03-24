@@ -14,7 +14,7 @@ var respawn_level;
 //This generates the top floor
 for(xx = 0; xx < 1924; xx += 16)
 {
-	ground_level = ah - 16 * choose(2,3,3,3,4,4);
+	ground_level = ah - 16 * choose(2,2,2,2,3,3,3,3,3,3,3);
 	groundunder_level = room_height/2;
 	
 	instance_create_layer(xx,ah,"Instances",obj_ground);

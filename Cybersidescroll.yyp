@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "25dd8000-d712-4e01-9a9e-ff32e9797146",
+            "Value": {
+                "id": "373a7ca6-28de-4fcc-883d-4288997a71d1",
+                "resourcePath": "sprites\\spr_darkbrik\\spr_darkbrik.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26ea1ebb-64f7-4de0-b7b0-e17ab1fd0e56",
             "Value": {
                 "id": "9ce475c6-ff19-4b2c-ba20-be47b27ec832",

@@ -10,9 +10,10 @@ if (restartcount = 0)
 if (restart == true)
 {
 	layer_destroy_instances("Instances");
+	layer_destroy_instances("regen");
 	scr_generation();
 	scr_genunder();
-	layer_destroy_instances("regen");
+	
 	restartcount = restartcount + 1;
 	restart = false;
 
