@@ -7,3 +7,7 @@ walksp = 4.5;
 window_set_fullscreen(true);
 window_set_cursor(cr_none);
 
+mx = x;
+my = y;
+
+active = false;

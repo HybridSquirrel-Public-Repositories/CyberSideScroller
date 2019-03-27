@@ -9,8 +9,10 @@ if (restartcount = 0)
 //if condistions are right for change
 if (restart == true)
 {
-	layer_destroy_instances("Instances");
-	layer_destroy_instances("regen");
+	//layer_destroy_instances("Instances");
+	//layer_destroy_instances("regen");
+	instance_destroy(obj_ground);
+	instance_destroy(obj_ground);
 	scr_generation();
 	scr_genunder();
 	

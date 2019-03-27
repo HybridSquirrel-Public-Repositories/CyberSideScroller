@@ -17,3 +17,9 @@ if (place_meeting(x, y - 16, obj_worldregen))
 	
 }
 
+if (place_meeting(x,y, obj_ground))
+{
+	instance_destroy();
+
+
+}
