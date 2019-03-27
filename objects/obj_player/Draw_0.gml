@@ -1,5 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
+/*
+try to check collition with draw so it will only attache on the first object and update becuase of world regen. 
+
+
+
+*/
 draw_self();
 
 if(active)
