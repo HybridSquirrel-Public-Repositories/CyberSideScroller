@@ -943,6 +943,14 @@
             }
         },
         {
+            "Key": "fd21bab1-c3b4-40b5-8c1b-dfc4abdce8bc",
+            "Value": {
+                "id": "df780204-35e7-448a-8536-cde0a93fa629",
+                "resourcePath": "scripts\\scr_genmid\\scr_genmid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fe9d21a9-c1c2-4f8a-befc-24d179fbc9df",
             "Value": {
                 "id": "cbfc6cdf-7a3d-4615-abc3-5c222577d917",
@@ -962,7 +970,8 @@
     "script_order": [
         "781b2fb8-23ea-4e1b-b310-8c21a25ca971",
         "c767a221-0133-4783-ab08-e17cb5abbc03",
-        "451ad4fd-80ca-450b-b308-6ee23a2f3ca6"
+        "451ad4fd-80ca-450b-b308-6ee23a2f3ca6",
+        "fd21bab1-c3b4-40b5-8c1b-dfc4abdce8bc"
     ],
     "tutorial": ""
 }
