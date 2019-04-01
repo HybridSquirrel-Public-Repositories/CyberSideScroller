@@ -37,12 +37,26 @@ if (place_meeting(x, y - 16, obj_ground))
 		
 	}
 
-	/*if (ground.groundstate == 5)
+	if (ground.groundstate == 5)
 	{
-		image_index = 5;
+		image_index = 4;
 		groundstate = 6;
-	}*/
 	
+	}
+	
+	if (ground.groundstate == 6)
+	{
+		image_index = 4;
+		groundstate = 7;
+	
+	}
+	
+	if (ground.groundstate == 7)
+	{
+		image_index = 4;
+		groundstate = 8;
+	
+	}
 }
 
 
