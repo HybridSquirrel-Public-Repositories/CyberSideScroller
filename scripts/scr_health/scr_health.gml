@@ -1,2 +1,1 @@
-global.healths = 100;
 

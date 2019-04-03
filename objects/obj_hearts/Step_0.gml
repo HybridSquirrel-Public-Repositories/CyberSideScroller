@@ -1,14 +1,30 @@
 scr_health();
 
-if (global.healths <= 80)
-{
-	image_speed = 0.4;
+
+
+
 	
-}
-
-if (image_index == 5)
+if (healths <= 90)
 {
-	image_speed = 0;
-	image_index = 5;
+	image_speed = 2.2;
+
+	//hold last frame
+	if (image_index>=5)
+	{
+		image_speed=0;
+	}
 
 }
+
+if (healths <= 80)
+{
+	image_speed = 2.2;
+	//hold last frame
+	if (image_index>=9)
+	{
+		image_speed=0;
+	}
+
+}
+
+
