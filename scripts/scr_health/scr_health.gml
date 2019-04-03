@@ -1,0 +1,2 @@
+global.healths = 100;
+
