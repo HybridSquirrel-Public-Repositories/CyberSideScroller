@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "75559c20-6c6e-4f3a-a603-e4d409cf770c",
+            "Value": {
+                "id": "51bbf905-ed09-4193-b32e-154d171ed283",
+                "resourcePath": "scripts\\scr_lootandextraterrain\\scr_lootandextraterrain.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "758f37a5-b72f-43ab-9b3e-7c68aad0a47d",
             "Value": {
                 "id": "ea348fe5-855a-4319-88ec-a214550f8010",
@@ -1140,7 +1148,8 @@
         "c767a221-0133-4783-ab08-e17cb5abbc03",
         "451ad4fd-80ca-450b-b308-6ee23a2f3ca6",
         "fd21bab1-c3b4-40b5-8c1b-dfc4abdce8bc",
-        "fb6e78b8-f5ab-42e4-932c-ba5830c33f24"
+        "fb6e78b8-f5ab-42e4-932c-ba5830c33f24",
+        "75559c20-6c6e-4f3a-a603-e4d409cf770c"
     ],
     "tutorial": ""
 }
