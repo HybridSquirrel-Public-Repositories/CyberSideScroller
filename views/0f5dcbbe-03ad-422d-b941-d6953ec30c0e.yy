@@ -8,8 +8,10 @@
         "c4f9a150-342a-48f9-a4f3-fe7f3665b085",
         "5b706997-3e53-4589-ac31-6ff85e8067d9",
         "0e9c0219-2e86-4aa0-bf23-8f357f779aab",
+        "93582c2e-dbc2-4545-b27d-2dae1edcbcbb",
         "5cd6df35-5523-48d9-bbfb-c88008fc4498",
-        "411c74dc-cc15-43bc-9795-f9c363dcc3c9"
+        "411c74dc-cc15-43bc-9795-f9c363dcc3c9",
+        "e984e726-d7ab-4a61-b2db-d0946f1c5f21"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_pickups",

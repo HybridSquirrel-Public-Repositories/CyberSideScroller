@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0f43dd43-3d1e-48ca-9834-ea2c483d7767",
+            "Value": {
+                "id": "f9ff6881-069f-400a-8d3a-d20ca3305eba",
+                "resourcePath": "scripts\\scr_genobjects\\scr_genobjects.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0f5dcbbe-03ad-422d-b941-d6953ec30c0e",
             "Value": {
                 "id": "115d94fd-648a-4a13-84ab-5e71594557f9",
@@ -220,6 +228,14 @@
                 "id": "9ce475c6-ff19-4b2c-ba20-be47b27ec832",
                 "resourcePath": "sprites\\spr_curser\\spr_curser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2a9a3be6-5998-4b53-8830-031dfa78739f",
+            "Value": {
+                "id": "0e43267a-eb7a-45b9-85a0-d0fb37600610",
+                "resourcePath": "objects\\obj_cluster\\obj_cluster.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -743,6 +759,14 @@
             }
         },
         {
+            "Key": "93582c2e-dbc2-4545-b27d-2dae1edcbcbb",
+            "Value": {
+                "id": "35198227-aec2-4ab8-afef-fb29b1fcf384",
+                "resourcePath": "sprites\\spr_oilbarrelcluster\\spr_oilbarrelcluster.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9613e721-b592-48e1-a2a9-0c40235817e6",
             "Value": {
                 "id": "ce96743c-4fe1-4775-968d-c26b8aee4b81",
@@ -999,6 +1023,14 @@
             }
         },
         {
+            "Key": "d99d58e5-13cc-4d5f-8f57-5c403e1af655",
+            "Value": {
+                "id": "2b07a1a1-322f-4990-bf8e-4be2870514d1",
+                "resourcePath": "objects\\obj_healthp\\obj_healthp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "db242b74-b561-42d9-b144-c8603a8ce654",
             "Value": {
                 "id": "8841e970-2d36-4b00-b7cb-bda56f46c208",
@@ -1052,6 +1084,14 @@
                 "id": "a810300c-85c1-4d4b-889b-1d645d5070d5",
                 "resourcePath": "objects\\obj_portal\\obj_portal.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e984e726-d7ab-4a61-b2db-d0946f1c5f21",
+            "Value": {
+                "id": "21447501-dd65-4e4a-9617-5e3ee775fa50",
+                "resourcePath": "sprites\\spr_barrelexpoltion\\spr_barrelexpoltion.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1149,7 +1189,8 @@
         "451ad4fd-80ca-450b-b308-6ee23a2f3ca6",
         "fd21bab1-c3b4-40b5-8c1b-dfc4abdce8bc",
         "fb6e78b8-f5ab-42e4-932c-ba5830c33f24",
-        "75559c20-6c6e-4f3a-a603-e4d409cf770c"
+        "75559c20-6c6e-4f3a-a603-e4d409cf770c",
+        "0f43dd43-3d1e-48ca-9834-ea2c483d7767"
     ],
     "tutorial": ""
 }

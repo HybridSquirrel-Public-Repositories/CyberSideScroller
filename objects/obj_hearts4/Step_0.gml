@@ -1,10 +1,9 @@
-scr_health();
 
 
 
 
 	
-if (healths <= 10)
+if (obj_heathcontroller.healths <= 10)
 {
 	image_speed = 2.2;
 
@@ -15,8 +14,12 @@ if (healths <= 10)
 	}
 
 }
+else
+{
+	image_index = 0;	
+}
 
-if (healths <= 0)
+if (obj_heathcontroller.healths <= 0)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -25,6 +28,7 @@ if (healths <= 0)
 		image_speed=0;
 	}
 	alarm[0]=2*room_speed;
+	
+	//goto room gameover
 }
-
 

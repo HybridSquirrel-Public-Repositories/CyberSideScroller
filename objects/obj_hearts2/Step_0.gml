@@ -1,10 +1,8 @@
-scr_health();
-
 
 
 
 	
-if (healths <= 50)
+if (obj_heathcontroller.healths <= 50)
 {
 	image_speed = 2.2;
 
@@ -15,8 +13,12 @@ if (healths <= 50)
 	}
 
 }
+else
+{
+	image_index = 0;	
+}
 
-if (healths <= 40)
+if (obj_heathcontroller.healths <= 40)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -26,5 +28,6 @@ if (healths <= 40)
 	}
 
 }
+
 
 

@@ -1,1 +1,0 @@
-healths = healths - 10;

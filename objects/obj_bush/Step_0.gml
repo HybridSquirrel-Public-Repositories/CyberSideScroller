@@ -18,7 +18,6 @@ if (!state == 1)
 	{
 		state = 1;
 		alarm[0]= room_speed*3;
-		instance_create_layer(x,y + 2,"fire",obj_nonflame);
-		
+		instance_create_layer(x,y,"fire",obj_nonflame);
 	}
 }

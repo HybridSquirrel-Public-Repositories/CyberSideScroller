@@ -1,3 +1,6 @@
+
+healths = 100;
+
 instance_create_layer(x,y,"heaths",obj_hearts4);
 
 instance_create_layer(x + 80,y,"heaths",obj_hearts3);

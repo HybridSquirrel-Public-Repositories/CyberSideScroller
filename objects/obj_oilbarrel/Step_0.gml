@@ -1,81 +1,24 @@
-rnd = choose(3,3,3,4,4,5);
-
-if (position_meeting(x,y,obj_bullet))
+if (place_meeting(x,y,obj_bullet))
 {
 	image_speed = 0.3;
-	bulletstate = 1;
-}
-
-if(bulletstate == 1)
-{
-	if alarm[0] < 1 // check if an alarm is running or not
-	{
-		alarm[0] = 1.6 * room_speed; // if its not running enable it. 
-	}
-	//hold last frame
-	if (image_index>=4)
-	{
-		image_speed=0;
-				
-		var i;
-		for (i = 0; i < rnd; i += 1)
-		{
-			instance_create_layer(x,y,"pickups",obj_oil)
-	
-		}
-	
-	}
-}
-
-
-if (position_meeting(x,y,obj_explosive))
-{
-	
-	explosivestate = 1;
-}
-
-if(explosivestate == 1)
-{
-	if alarm[0] < 1 // check if an alarm is running or not
-	{
-		alarm[0] = 1.6 * room_speed; // if its not running enable it. 
-	}
-	/*		
-	var i;
-	for (i = 0; i < rnd; i += 1)
-	{
-		instance_create_layer(x,y,"pickups",obj_oil)
-	
-	}
-	*/
 	
 }
 
-
-if (position_meeting(x,y,obj_flame))
+if (place_meeting(x,y,obj_explosive))
 {
-	image_index = 5;
-	image_speed = 0.3;
-	flamestate = 1;
+	instance_create_layer(x,y,"pickups",obj_cluster);
+	instance_create_layer(x+4,y+4,"pickups",obj_cluster);
+	instance_create_layer(x+40,y+40,"pickups",obj_cluster);
+	instance_create_layer(x-10,y-30,"pickups",obj_cluster);
+	instance_destroy();
+
+
 }
 
-if(flamestate == 1)
+if (place_meeting(x,y,obj_flame))
 {
-	if alarm[0] < 1 // check if an alarm is running or not
-	{
-		alarm[0] = 1.6 * room_speed; // if its not running enable it. 
-	}
-	//hold last frame
-	if (image_index>=7)
-	{
-		image_speed=0;
-		/*		
-		var i;
-		for (i = 0; i < rnd; i += 1)
-		{
-			instance_create_layer(x,y,"pickups",obj_oil)
-	
-		}
-	*/
-	}
+	sprite_index = spr_barrelexpoltion;
+	image_speed = 1;
+
+
 }
