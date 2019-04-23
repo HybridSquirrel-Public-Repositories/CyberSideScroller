@@ -8,7 +8,8 @@
         "4e419a02-4894-4453-8c6c-126e11963bf3",
         "0991da25-ba3c-45de-b81a-399b10e4a527",
         "758f37a5-b72f-43ab-9b3e-7c68aad0a47d",
-        "7d4cd486-47a7-48a2-8d76-0e2babb87a42"
+        "7d4cd486-47a7-48a2-8d76-0e2babb87a42",
+        "1c5499dd-e4d7-4977-b997-507db5b9f3a9"
     ],
     "filterType": "GMObject",
     "folderName": "obj_healthstuff",
