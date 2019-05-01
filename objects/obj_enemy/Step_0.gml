@@ -28,3 +28,14 @@ if (place_meeting(x,y+vsp,obj_ground))
 	vsp = 0;
 }
 y = y + vsp;
+
+if point_distance(x, y, obj_player.x, obj_player.y) <= rad {
+	if ((obj_player.x > x && hsp < 0) || (obj_player.x < x && hsp > 0))
+		hsp = -hsp;
+	x += hsp;
+}
+
+if ((hsp > 0 && place_meeting(x+rad2, y, obj_ground)) || (hsp < 0 && place_meeting(x-rad2, y, obj_ground)))
+{
+	vsp = (-6);
+}

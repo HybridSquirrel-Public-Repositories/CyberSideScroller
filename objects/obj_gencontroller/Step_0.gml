@@ -27,6 +27,7 @@ if (restart == true)
 	instance_destroy(obj_ground);
 	layer_destroy_instances("pickups");
 	layer_destroy_instances("debries");
+	instance_destroy(obj_portal);
 	
 	scr_generation();
 	scr_genunder();
@@ -48,6 +49,11 @@ var roomphase = choose(3,4,4,4,5,5);
 
 if (restartcount == roomphase)
 {
+	if (portal == false)
+	{
 	instance_create_layer(room_width/2,360,"portal",obj_portal);
-
+	portal = true;
+	
+	}
+	nogen = true;
 }

@@ -1,4 +1,8 @@
-/*stateoff = true;
+if (obj_heathcontroller.healths >= 90)
+{
+	image_index = 0;
+}
+
 
 if (obj_heathcontroller.healths == 90)
 {
@@ -42,7 +46,5 @@ if (obj_heathcontroller.healths == 20)
 
 if (obj_heathcontroller.healths == 10)
 {
-	image_index = 42;
+	image_index = 41;
 }
-
-stateoff =false;

@@ -14,7 +14,7 @@ var respawn_level;
 //This generates botton floor
 for(xx = 0; xx < 1924; xx += 16)
 {
-	ground_level = ah - 16 * choose(3,3,3,4,4);
+	ground_level = ah - 16 * choose(/*3,3,3,*/4,4);
 	groundunder_level = 1080;
 	
 	instance_create_layer(xx,ah,"Instances",obj_ground);

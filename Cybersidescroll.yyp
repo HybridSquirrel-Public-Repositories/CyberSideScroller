@@ -1103,6 +1103,14 @@
             }
         },
         {
+            "Key": "ec49b710-8e24-4811-a215-1147d730b244",
+            "Value": {
+                "id": "30f6ff91-c09b-4dd4-ac18-696a8b41c577",
+                "resourcePath": "rooms\\rm_gameroom1\\rm_gameroom1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f3635109-652c-44d3-91a6-d97948a6efc9",
             "Value": {
                 "id": "9be7312d-0f3e-401e-9ec8-cd9d2e4b6cd0",

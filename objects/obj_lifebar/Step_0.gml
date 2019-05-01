@@ -1,8 +1,13 @@
-if (stateoff == false)
+/*if (stateoff == false)
 {
 
+if (obj_heathcontroller.healths >= 100)
+{
+	image_index = 0;
 
-if (obj_heathcontroller.healths <= 90)
+}
+
+if (obj_heathcontroller.healths == 90)
 {
 	image_speed = 2.2;
 
@@ -14,9 +19,7 @@ if (obj_heathcontroller.healths <= 90)
 
 }
 
-
-
-if (obj_heathcontroller.healths <= 80)
+if (obj_heathcontroller.healths == 80)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -28,7 +31,7 @@ if (obj_heathcontroller.healths <= 80)
 }
 
 
-if (obj_heathcontroller.healths <= 70)
+if (obj_heathcontroller.healths == 70)
 {
 	image_speed = 2.2;
 
@@ -41,7 +44,7 @@ if (obj_heathcontroller.healths <= 70)
 }
 
 
-if (obj_heathcontroller.healths <= 60)
+if (obj_heathcontroller.healths == 60)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -53,7 +56,7 @@ if (obj_heathcontroller.healths <= 60)
 }
 
 	
-if (obj_heathcontroller.healths <= 50)
+if (obj_heathcontroller.healths == 50)
 {
 	image_speed = 2.2;
 
@@ -65,7 +68,7 @@ if (obj_heathcontroller.healths <= 50)
 
 }
 
-if (obj_heathcontroller.healths <= 40)
+if (obj_heathcontroller.healths == 40)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -77,7 +80,7 @@ if (obj_heathcontroller.healths <= 40)
 }
 
 
-if (obj_heathcontroller.healths <= 30)
+if (obj_heathcontroller.healths == 30)
 {
 	image_speed = 2.2;
 
@@ -89,7 +92,7 @@ if (obj_heathcontroller.healths <= 30)
 
 }
 
-if (obj_heathcontroller.healths <= 20)
+if (obj_heathcontroller.healths == 20)
 {
 	image_speed = 2.2;
 	//hold last frame
@@ -101,7 +104,7 @@ if (obj_heathcontroller.healths <= 20)
 }
 
 	
-if (obj_heathcontroller.healths <= 10)
+if (obj_heathcontroller.healths == 10)
 {
 	image_speed = 2.2;
 
