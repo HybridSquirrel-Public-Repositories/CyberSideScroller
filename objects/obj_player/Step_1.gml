@@ -49,6 +49,10 @@ if (place_meeting(x,y+vsp,obj_ground))
 }
 y = y + vsp;
 
+//animation 
+
+if (hsp != 0) image_xscale = sign(hsp);
+
 //hook
 
 if (mouse_check_button_pressed(mb_right))

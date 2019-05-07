@@ -1,0 +1,2 @@
+hit = false;
+ehit = false;

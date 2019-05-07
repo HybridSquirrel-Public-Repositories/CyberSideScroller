@@ -6,12 +6,13 @@ vsp = 0;
 grv = 0.3;
 walksp = 4.5;
 
-hp = 4;
+hp = 100;
 flash = 0;
 //Radio in wich the enemy starts walking towards the player
 rad = 50000;
 //Distance from objekt to start jumping
 rad2 = 40;
 //Damage radio
-rad3 = 10;
+rad3 = 45;
 
+hit = false;

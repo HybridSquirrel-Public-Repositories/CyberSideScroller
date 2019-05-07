@@ -1,6 +1,6 @@
 
 	vsp = vsp + grv;
-
+/*
 	//horizontal collision
 	if (place_meeting(x+hsp,y,obj_ground))
 	{
@@ -12,7 +12,7 @@
 		hsp = 0;
 	}
 	x = x + hsp;
-
+*/
 	//vertical collision 
 	if (place_meeting(x,y+vsp,obj_ground)) 
 	{

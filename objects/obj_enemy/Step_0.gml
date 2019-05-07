@@ -29,6 +29,8 @@ if (place_meeting(x,y+vsp,obj_ground))
 }
 y = y + vsp;
 
+if (hsp != 0) image_xscale = sign(hsp);
+
 if point_distance(x, y, obj_player.x, obj_player.y) <= rad {
 	if ((obj_player.x > x && hsp < 0) || (obj_player.x < x && hsp > 0))
 		hsp = -hsp;
