@@ -6,7 +6,8 @@
     "children": [
         "2fa02cab-dcd1-4221-9d90-f534a12f22cc",
         "e0a8dcc4-def9-44ec-abbb-82f434a13be6",
-        "0b9b06c9-652e-4698-b7ed-28fb658f0235"
+        "0b9b06c9-652e-4698-b7ed-28fb658f0235",
+        "cf3485e5-5029-49b4-84e2-d703569b3b97"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_enemy",

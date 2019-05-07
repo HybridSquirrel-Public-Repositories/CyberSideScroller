@@ -13,6 +13,10 @@ rad = 50000;
 //Distance from objekt to start jumping
 rad2 = 40;
 //Damage radio
-rad3 = 45;
+rad3 = 30;
 
 hit = false;
+
+phit = false;
+
+explotionchans = choose(0,0,0,0,0,0,1,1,1,1,);

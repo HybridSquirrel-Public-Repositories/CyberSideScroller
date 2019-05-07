@@ -26,3 +26,8 @@ if (keyboard_check_pressed(vk_escape))
 
 }
 
+if (obj_heathcontroller.healths <= 0)
+{
+	room_goto(rm_gameover);
+}
+

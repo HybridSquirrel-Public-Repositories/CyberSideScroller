@@ -1,10 +1,11 @@
 cursor_sprite = spr_courser;
-
+if (grabbed == false)
+{
 //player input
 key_left = keyboard_check(ord("A"));
 key_right = keyboard_check(ord("D"));
 key_space = keyboard_check_pressed(vk_space);
-
+}
 //calculate movement
 var move = key_right - key_left;
 

@@ -11,3 +11,4 @@ mx = x;
 my = y;
 
 active = false;
+grabbed = false;

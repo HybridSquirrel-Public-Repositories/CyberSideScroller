@@ -10,3 +10,9 @@ if (collected){
 		instance_destroy();
 	}
 }
+
+if (place_meeting(x,y,obj_explosive))
+{
+	instance_destroy();
+
+}

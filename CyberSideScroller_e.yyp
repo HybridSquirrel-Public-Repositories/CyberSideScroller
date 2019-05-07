@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "1fc71d02-d5bc-4dbc-b39c-69840e246e72",
-            "Value": {
-                "id": "1846e434-5caf-4780-8c04-396595fa346f",
-                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "20bfb9b1-00fa-4808-91c8-e68a065e22c4",
             "Value": {
                 "id": "5160d445-bed1-4010-be86-d614c676f46a",
@@ -959,14 +951,6 @@
             }
         },
         {
-            "Key": "cf3485e5-5029-49b4-84e2-d703569b3b97",
-            "Value": {
-                "id": "306568cb-08d6-4efe-8c0c-fe47f0061138",
-                "resourcePath": "sprites\\spr_gargoyle\\spr_gargoyle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d1524e13-7e9a-4287-b5bd-4057e3c48c0a",
             "Value": {
                 "id": "eb1f61ad-1efe-45a5-8786-1d498cba7eef",
@@ -1004,14 +988,6 @@
                 "id": "49770c05-8108-4bbf-843d-c90df3ee0ac8",
                 "resourcePath": "rooms\\rm_inventory\\rm_inventory.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "d8469848-2ecf-41f5-b381-14ae229c29cc",
-            "Value": {
-                "id": "985b7ee8-3f1a-45e1-a66b-4d5990eab24a",
-                "resourcePath": "objects\\obj_enemygargoyle\\obj_enemygargoyle.yy",
-                "resourceType": "GMObject"
             }
         },
         {

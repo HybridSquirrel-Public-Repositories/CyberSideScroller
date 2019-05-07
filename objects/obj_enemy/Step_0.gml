@@ -41,3 +41,22 @@ if ((hsp > 0 && place_meeting(x+rad2, y, obj_ground)) || (hsp < 0 && place_meeti
 {
 	vsp = (-6);
 }
+
+if (point_distance(x, y, obj_player.x, obj_player.y) <= rad3)
+{
+	
+	if (explotionchans == 1)
+	{
+		sprite_index = spr_enemyexplotion;
+		image_speed = 1;
+	}
+	else
+	{
+		if (phit == false)
+		{
+			obj_heathcontroller.healths = obj_heathcontroller.healths -10;
+			phit = true;
+			alarm[1] = 26; 
+		}
+	}
+}

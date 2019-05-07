@@ -19,5 +19,13 @@ var randomfall = irandom_range(0,room_width);
 instance_create_layer(randomfall,phightroom,"pickups",obj_ironbox);
 
 
+/*
+var randomfall = irandom_range(0,room_width);
+instance_create_layer(randomfall,phightroom,"enemy",obj_enemygargoyle);
+*/
+
 var randomfall = irandom_range(0,room_width);
 instance_create_layer(randomfall,phightroom,"enemy",obj_enemy);
+
+var randomfall = irandom_range(0,room_width);
+instance_create_layer(randomfall,nhightroom,"enemy",obj_enemy);
