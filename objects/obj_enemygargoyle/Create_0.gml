@@ -15,3 +15,4 @@ rnd = 0;
 xrnd = irandom_range(20,1900);
 yrnd = 580 + irandom(150);
 taken = false;
+
