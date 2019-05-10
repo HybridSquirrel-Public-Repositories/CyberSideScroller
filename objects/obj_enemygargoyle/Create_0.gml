@@ -16,3 +16,4 @@ xrnd = irandom_range(20,1900);
 yrnd = 580 + irandom(150);
 taken = false;
 
+global.enemycount += 1;

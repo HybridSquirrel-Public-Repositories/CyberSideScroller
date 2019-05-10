@@ -1,1 +1,1 @@
-healths = healths - 10;
+global.healths = global.healths - 10;

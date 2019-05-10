@@ -1,3 +1,5 @@
+
+
 //loops the map to the right
 if place_meeting(x,y,obj_player)
 {
@@ -5,9 +7,12 @@ if place_meeting(x,y,obj_player)
 	obj_player.y = 400;
 	if (obj_gencontroller.nogen == false)
 	{
-		if (!instance_exists(obj_enemy && obj_enemygargoyle))
+
+		if(global.enemycount == 0)
 		{
-		obj_gencontroller.restart = true;
+			obj_gencontroller.restart = true;
+			
 		}
+		
 	}
 }

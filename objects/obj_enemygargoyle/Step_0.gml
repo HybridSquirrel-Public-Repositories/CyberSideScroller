@@ -1,8 +1,3 @@
-if (place_meeting(x,y,obj_enemygargoyle))
-{
-	instance_destroy();
-
-}
 
 if alarm[1] < 1 // check if an alarm is running or not
 {
@@ -24,13 +19,15 @@ if (rnd == 3)
 		alarm[2] = 2 * room_speed;
 		if(phit == false)
 		{
-			obj_heathcontroller.healths -= 20;
+			global.healths -= 20;
 			phit = true;
 			alarm[6]= 2 * room_speed;
 		}
 	}
 	mp_potential_step_object(xrnd,yrnd,5,obj_ground);
 }
+obj_player.grabbed = false;
+
 
 if (rnd == 2)
 {
@@ -43,21 +40,17 @@ if (rnd == 2)
 				obj_player.x = x;
 				obj_player.y = y;
 			}
-			else
-			{
-				obj_player.x = obj_player.x;
-				obj_player.y = obj_player.y;
-			}
 			alarm[2] = 2 * room_speed;
 			if(phit == false)
 			{
-				obj_heathcontroller.healths -= 20;
+				global.healths -= 20;
 				phit = true;
 				alarm[6]= 2 * room_speed;
 			}
 		}
 	mp_potential_step_object(xrnd,yrnd,5,obj_ground);
 }
+obj_player.grabbed = false;
 
 if (rnd == 1)
 {

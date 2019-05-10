@@ -12,3 +12,5 @@ my = y;
 
 active = false;
 grabbed = false;
+
+currentroom = rm_gameroom

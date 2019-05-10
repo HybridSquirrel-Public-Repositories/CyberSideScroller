@@ -54,7 +54,7 @@ if (point_distance(x, y, obj_player.x, obj_player.y) <= rad3)
 	{
 		if (phit == false)
 		{
-			obj_heathcontroller.healths = obj_heathcontroller.healths -10;
+			global.healths = global.healths -10;
 			phit = true;
 			alarm[1] = 26; 
 		}

@@ -2,12 +2,13 @@
 {
     "name": "rm_gameover",
     "id": "1fc71d02-d5bc-4dbc-b39c-69840e246e72",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "b2aefd4d-a955-4a44-8249-79ef753e9637",
+        "bbba2c3f-409c-43a7-a22b-3e9d08f97913"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_5AA733D4","id": "b2aefd4d-a955-4a44-8249-79ef753e9637","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5AA733D4","objId": "fe141f21-ee1d-44b3-99ca-602b266ad614","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 956,"y": 870},
+{"name": "inst_6D9998BC","id": "bbba2c3f-409c-43a7-a22b-3e9d08f97913","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6D9998BC","objId": "4a64278d-abeb-4acb-829c-10a1c023232d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 960,"y": 608}
             ],
             "layers": [
 
@@ -43,7 +45,7 @@
             "id": "6e93b059-d7ce-4f84-86f2-af8916394ec8",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -62,7 +64,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "7d31a2e6-f7da-4cbe-a1bc-78a6afc899df",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

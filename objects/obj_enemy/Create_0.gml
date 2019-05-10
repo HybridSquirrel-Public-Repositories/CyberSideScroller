@@ -20,3 +20,5 @@ hit = false;
 phit = false;
 
 explotionchans = choose(0,0,0,0,0,0,1,1,1,1,);
+
+global.enemycount += 1;

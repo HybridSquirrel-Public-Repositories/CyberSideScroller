@@ -6,9 +6,15 @@ if place_meeting(x,y,obj_player)
 	obj_player.y = 400;
 	if (obj_gencontroller.nogen == false)
 	{
-		if (!instance_exists(obj_enemy && obj_enemygargoyle))
-		{
-		obj_gencontroller.restart = true;
+		if(global.enemycount == 0)
+		{	
+			
+			obj_gencontroller.restart = true;
+			enemygone = false;
+
 		}
 	}
 }
+
+
+	
